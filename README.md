@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Web Development.
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: Email - gurpartap.sohi35@gmail.com
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I collect sneakers.
 
 <a href="https://github.com/g-sohi/github-readme-stats">
