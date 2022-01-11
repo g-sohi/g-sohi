@@ -1,6 +1,6 @@
 ### Hi there, I'm Gurpartap Sohi! 👋
 
-- 🔭 I’m currently working on a Rental Property Management System. 
+- 🔭 I’m currently working on a personal portfolio website. 
 - 🌱 I’m currently learning Web Development.
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: Email - gurpartap.sohi35@gmail.com
